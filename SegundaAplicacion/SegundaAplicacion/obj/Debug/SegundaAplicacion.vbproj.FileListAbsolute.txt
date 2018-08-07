@@ -1,0 +1,9 @@
+C:\Users\i5-LAB-408\Desktop\SegundaAplicacion\SegundaAplicacion\obj\Debug\SegundaAplicacion.frm_calculadora.resources
+C:\Users\i5-LAB-408\Desktop\SegundaAplicacion\SegundaAplicacion\obj\Debug\SegundaAplicacion.Resources.resources
+C:\Users\i5-LAB-408\Desktop\SegundaAplicacion\SegundaAplicacion\obj\Debug\SegundaAplicacion.vbproj.GenerateResource.Cache
+C:\Users\i5-LAB-408\Desktop\SegundaAplicacion\SegundaAplicacion\bin\Debug\SegundaAplicacion.exe
+C:\Users\i5-LAB-408\Desktop\SegundaAplicacion\SegundaAplicacion\bin\Debug\SegundaAplicacion.pdb
+C:\Users\i5-LAB-408\Desktop\SegundaAplicacion\SegundaAplicacion\bin\Debug\SegundaAplicacion.xml
+C:\Users\i5-LAB-408\Desktop\SegundaAplicacion\SegundaAplicacion\obj\Debug\SegundaAplicacion.exe
+C:\Users\i5-LAB-408\Desktop\SegundaAplicacion\SegundaAplicacion\obj\Debug\SegundaAplicacion.xml
+C:\Users\i5-LAB-408\Desktop\SegundaAplicacion\SegundaAplicacion\obj\Debug\SegundaAplicacion.pdb
